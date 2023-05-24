@@ -3,7 +3,7 @@
 # DATE :9.3.2023
 
 # AIM :
-## To write a python program to perform stop and wait protocol
+## To write a python program to perform client server model.
 # ALGORITHM :
 ## 1. Start the program.
 ## 2. Get the frame size from the user
